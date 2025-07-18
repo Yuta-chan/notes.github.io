@@ -56,3 +56,17 @@ valores son un ideal de comportamiento
 "preocúpate menos por lo que tienes y más por lo que eres."
 
 SMART: específico, medible, alcanzable, relevante, temporal.
+
+"No pierdas el tiempo debatiendo cómo debería de ser un hombre bueno. Sé uno."
+
+Cuidado con el exceso de  objetivos.
+
+"Quien pretende llegar a un sitio determinado debe emprender un solo camino y no tantear muchos a un tiempo, pues esto último no es caminar, sino vagar"
+
+"pregúntate en todo momento, ¿Es esto necesario?"
+
+"que todos tus esfuerzos vayan dirigidos hacia algo, mantén tu mirada en el destino"
+
+"si quieres tranquilidad haz menos, haz lo esencial"
+
+Acción ▶️ resultados ⏫ motivación
