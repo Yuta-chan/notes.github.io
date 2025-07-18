@@ -11,7 +11,7 @@ Luego, para que "algo" sea considerado un agente es necesario que haya
 
 ## Invicto
 ![Alt text]({{ site.baseurl }}assets/css/IMG_5905.png)
-
+![Mi imagen]({{ site.baseurl }}/assets/images/IMG_5905.png)
 Marcos Vázquez, Ález Maese, Aner Hernández
 2024
 <img src="{{ site.baseurl }}/assets/images/IMG_5905.png" alt="My photo" width="300" />
