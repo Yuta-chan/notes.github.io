@@ -9,3 +9,5 @@ filename: chinese.md
 
 Recursos de chino
 -  [diccionario, app](https://play.google.com/store/apps/details?id=com.pleco.chinesesystem&hl=en-US)
+
+Go to [readme](README.md)
