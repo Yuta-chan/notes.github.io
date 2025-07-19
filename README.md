@@ -119,8 +119,10 @@ algunas herramientas para ir recordando tu propia filosofía estoica son
 8. _repetición de preceptos_, y en lo personal apoyo que esta arma es quizás la más potente porque la encuentro en todos lados, en la búsqueda de soluciones de problemas matemáticos, en el estudio de los idiomas, en el aprendizaje de una danza, en la interiorización de los ritmos de los acordes de la guitarra, y matizaré
 > debemos tener nuestros principios listos para la práctica, tan interiorizados que nos vengan rápido en momentos de crisis.
 > > algunas lanas absorben rápido los colores y otras deben remojarse repetidamente
-
 y esto viniendo de Séneca
 
+---
+
+Go to [about page](chinese.md)
 
 
