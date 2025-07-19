@@ -10,10 +10,10 @@ Luego, para que "algo" sea considerado un agente es necesario que haya
 4. Una memoria mínima
 
 ## Invicto
-![Mi imagen](notes.github.io/assets/images/IMG_5905.png)
+![Mi imagen](/assets/images/IMG_5905.png)
 Marcos Vázquez, Ález Maese, Aner Hernández
 2024
-<img src="notes.github.io/assets/images/IMG_5905.png" alt="My photo" width="300" />
+<img src="/assets/images/IMG_5905.png" alt="My photo" width="300" />
 
 "La calidad de tu vida depende de la calidad de tus pensamientos"
 Templo de Delfos: Conócete a ti mismo
