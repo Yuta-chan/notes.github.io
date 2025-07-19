@@ -123,6 +123,7 @@ y esto viniendo de Séneca
 
 ---
 
-Go to [about page](chinese.md)
+## Chinese
+Go to [Chinese Notes](chinese.md)
 
 
