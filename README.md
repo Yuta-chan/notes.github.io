@@ -120,6 +120,14 @@ algunas herramientas para ir recordando tu propia filosofía estoica son
 > debemos tener nuestros principios listos para la práctica, tan interiorizados que nos vengan rápido en momentos de crisis.
 > > algunas lanas absorben rápido los colores y otras deben remojarse repetidamente
 y esto viniendo de Séneca
+9.preparaci:on y reflexi:on
+> > al empezar el d;ia, me pregunto tengo objetivos para el d:ia de hoy? qu:e quiero conseguir? qu:e necesito hacer?
+> > y al acabar el d:ia, qu:e podr:ia haber hecho mejor?
+te perdono, pero intenta no hacerlo de nuevo. (S:eneca)
+10. diario
+> > donde pasamos nuestros pensamientos al paper y nos volvemos observadores de nuestros propios pensamientos y podemos analizarlos, revisar nuestros logros
+## Clave: mediaciones de marco aurelio
+*Y por :ultimo es esencial la decisi:on, el "Mientras vivas, sigue aprendiendo a vivir."
 
 ---
 
